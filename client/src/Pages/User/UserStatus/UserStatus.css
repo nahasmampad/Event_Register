@@ -1,0 +1,35 @@
+.body{
+    height: 100%;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #198754;
+}
+
+.statusBox{
+    width: 100%;
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.statusBox h3{
+    text-align: center;
+}
+
+.statusBox p{
+    text-align: center;
+    color: #198754;
+    line-height: 30px;
+}
+
+.statusBox span{
+    font-weight: bold;
+}
+
+.btns{
+    width: 100%;
+}

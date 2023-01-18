@@ -1,0 +1,22 @@
+.mains{
+    background-color: #198754;
+    height: 100vh;
+    
+}
+h5{
+    color: green;
+    text-align: center;
+}
+
+.tableData{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    position: absolute;
+    top: 25%;
+}
+
+.new{
+    
+}
